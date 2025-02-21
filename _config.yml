@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lee Junyoung / hello"
+title                    : "Lee Junyoung"
 title_separator          : "-"
 name                     : &name "Lee Junyoung"
-description              : &description "Data Scientist @ HTX / Research Hobbyist"
+description              : &description "Data Scientist @ HTX"
 url                      : https://jylee-k.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jylee-k/jylee-k.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Lee Junyoung"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Either on a laptop or on the stage with a trumpet"
   location         : "Singapore"
   employer         : "Home Team Science and Technology Agency (HTX)"
   uri              : # URL
-  email            : "lee_junyoung@htx.gov.sg" 
+  email            : "junyounglee.k@gmail.com" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/lee_j_27"

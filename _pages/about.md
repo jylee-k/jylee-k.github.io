@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "stuff going on"
 author_profile: true
 redirect_from: 
   - /about/
