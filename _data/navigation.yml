@@ -5,11 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+
+  - title: "publications"
     url: /publications/
         
-  - title: "Blog Posts"
+  - title: "posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  
