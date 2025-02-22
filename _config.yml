@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "lee junyoung"
+title                    : "Lee Junyoung"
 title_separator          : "-"
 name                     : &name 
 description              : &description 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : # example: "John Doe"
   pronouns         : # example: "she/her"  
-  bio              : "Either on a desk with a laptop/on a stage with a trumpet/on a plane with a camera"
+  bio              : "Either on a desk with a laptop/\non a stage with a trumpet/\non a plane with a camera"
   location         : "Singapore"
   employer         : # name
   uri              : # URL
