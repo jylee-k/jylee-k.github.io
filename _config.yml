@@ -23,11 +23,11 @@ repository               : "jylee-k/jylee-k.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : ""
+  name             : # example: "John Doe"
   pronouns         : # example: "she/her"  
-  bio              : "Either on a laptop or on the stage with a trumpet"
+  bio              : "Either on a desk with a laptop/on a stage with a trumpet/on a plane with a camera"
   location         : "Singapore"
-  employer         : "Home Team Science and Technology Agency (HTX)"
+  employer         : # name
   uri              : # URL
   email            : "junyounglee.k@gmail.com" 
 
