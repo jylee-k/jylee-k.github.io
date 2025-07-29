@@ -8,9 +8,9 @@ main:
   - title: "home"
     url: /
 
-  - title: "publications"
-    url: /publications/
+  # - title: "publications"
+  #   url: /publications/
         
-  - title: "posts"
-    url: /year-archive/
+  # - title: "posts"
+  #   url: /year-archive/
   
