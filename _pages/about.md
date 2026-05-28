@@ -18,7 +18,7 @@ I graduated with a BEng (Hons) in Electrical and Electronic Engineering from Nan
 what's up
 ------
 **2026.04**
-I started building with the team @ shopzenlow.com
+I started building with the team @ [ZenLow](shopzenlow.com).
 
 **2026.03**
 I released a preprint titled _More Human, More Efficient: Aligning Annotations with Quantized SLMs_ with my co-author Wang Jiayu @ HTX.
