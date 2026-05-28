@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "so,"
+title: "so, this is"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,11 +11,18 @@ I'm currently working full-time as a Data Scientist at [Home Team Science and Te
 
 * Natural language processing - tokenization
 * Text graph neural networks
+* Entity / relationship extraction
 
 I graduated with a BEng (Hons) in Electrical and Electronic Engineering from Nanyang Technological University (NTU), Singapore.
 
 what's up
 ------
+**2026.04**
+I started building with the team @ shopzenlow.com
+
+**2026.03**
+I released a preprint titled _More Human, More Efficient: Aligning Annotations with Quantized SLMs_ with my co-author Wang Jiayu @ HTX.
+
 **2025.08**
 I started my part-time studies in Master of Computing in Artificial Intelligence @ National University of Singapore (NUS).
 
